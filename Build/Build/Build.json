@@ -1,0 +1,11 @@
+{
+"companyName": "UreSoft",
+"productName": "PingPong",
+"dataUrl": "Build.data.unityweb",
+"asmCodeUrl": "Build.asm.code.unityweb",
+"asmMemoryUrl": "Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
